@@ -1,7 +1,9 @@
+import nltk
 import streamlit as st
 from nltk.sentiment import SentimentIntensityAnalyzer
 import plotly.express as px
 import glob
+nltk.download("vader_lexicon")
 
 analyzer = SentimentIntensityAnalyzer()
 diary = []

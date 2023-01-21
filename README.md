@@ -12,17 +12,17 @@
 
 ## Description
 
-
+Mood visualizer is a website that analyses your daily thoughts input and determines how positive and negative the input
+was. It then takes your positivity and negativity scores for the week and plots it in a line graph for you to see. 
 
 ### Dependencies
 
 ## Usage
 
 To use this application, visit the application URL
-at 
+at https://charanvir-mood-visualizer--main-qt2sq5.streamlit.app/
 
 <img src="images/1.png" width="500">
-
 
 ## Contributing
 
