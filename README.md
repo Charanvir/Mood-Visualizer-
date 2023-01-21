@@ -52,7 +52,7 @@ This project uses a number of standard and third party modules to achieve its fu
 ## Usage
 
 To use this application, visit the application URL
-[here](https://charanvir-mood-visualizer--main-qt2sq5.streamlit.app/)
+[here](https://moodvisualizer.streamlit.app/)
 
 <img src="images/1.png" width="500">
 
